@@ -58,7 +58,7 @@
 
 Web-based inventory tracker with full CRUD operations, user-friendly UI, input validation, and SQLite backend.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hiteshrajpurohit2410/inventory-management)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hiteshrajpurohit2410/inventory_management)
 
 ---
 
