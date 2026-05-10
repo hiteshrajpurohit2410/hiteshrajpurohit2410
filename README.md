@@ -76,7 +76,7 @@ Task manager with full CRUD, dynamic Jinja2 rendering, and persistent SQLite sto
 
 Pixel-accurate Amazon homepage clone with responsive design, navbar, product sections, and banners.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hiteshrajpurohit2410/amazon-clone)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/hiteshrajpurohit2410/Amazon-page-)
 
 ---
 
